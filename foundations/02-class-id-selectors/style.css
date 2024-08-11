@@ -4,5 +4,10 @@
 }
 
 .basic-red.cooler {
-    font-size: 24px
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(15, 11, 209);
+    font-size:36px; 
 }
